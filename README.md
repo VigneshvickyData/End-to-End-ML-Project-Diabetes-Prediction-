@@ -1,3 +1,5 @@
+# Diabetes Prediction Project in the Healthcare Domain
+
 # Diabetes Prediction Web Application
 
 A web application that predicts whether a person is diabetic or not based on medical data inputs. This project uses machine learning to make predictions and provides a user-friendly web interface for interaction.
