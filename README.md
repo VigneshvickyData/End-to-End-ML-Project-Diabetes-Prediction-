@@ -23,5 +23,4 @@ Metrics: Glucose, Blood Pressure, BMI, Age, etc.
 # Access the application at 
 http://localhost:6060
 
-## Project Output:
-![Uploading Screenshot (961).png…]()
+
